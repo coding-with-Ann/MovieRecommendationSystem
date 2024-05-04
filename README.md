@@ -1,2 +1,2 @@
 "# MovieRecommendationSystem" 
-[This is the link to website](https://movierecommendationsystem-xfu1.onrender.com)
+[link](https://movierecommendationsystem-xfu1.onrender.com)
